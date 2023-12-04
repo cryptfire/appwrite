@@ -1,8 +1,8 @@
-> Great news! Appwrite Cloud is now in public beta! Sign up at [cloud.appwrite.io](https://cloud.appwrite.io) for a hassle-free, hosted experience. Join us in the Cloud today! ☁️🎉
+> Great news! Appwrite Cryptfire is now in public beta! Try it out and build your own high-assurance centralized crypto platform with Appwrite! ☁️🎉
 
 <br />
 <p align="center">
-    <a href="https://appwrite.io" target="_blank"><img src="./public/images/banner.png" alt="Appwrite Logo"></a>
+    <a href="https://appwrite.io" target="_blank"><img src="https://github.com/cryptfire/appwrite-cryptfire/assets/114028070/8cdac774-6193-4a43-90af-41b25f3725cd" alt="Appwrite Logo"></a>
     <br />
     <br />
     <b>Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.</b>
