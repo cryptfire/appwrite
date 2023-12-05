@@ -1,4 +1,4 @@
-> Great news! Appwrite Cryptfire is now in public beta! Try it out and build your own high-assurance centralized crypto platform with Appwrite! ☁️🎉
+> Appwrite is very abstract. It takes a little while to get comfortable with modifying, tweaking and extending it. 🧬
 
 <br />
 <p align="center">
